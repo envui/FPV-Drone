@@ -1,0 +1,36 @@
+[ Mark4 V2 - Custom FPV Drone Build ],,,,,,,,,
+,,,,,,,,,
+,Assembly Name :,N/A,,,,[42],,,
+,Assembly Number :,N/A,,,,,,,
+,Assembly Revision :,N/A,,,,,,,
+,Approval Date :,N/A,,,,,,,
+,Part Count :,7,,,,,,,
+,Total Cost :,$179.20,,,,,,,
+,,,,,,,,,
+Part #,Part Name,Description,Revision,Qty,Units,Supplier,Supplier2,Unit Cost,Cost
+1,MAK4 V2 MARK4 FPV Drone Frame 10inch 367/387/427mm Carbon Fiber RC FPV Freestyle Long Range Racing Drone Quadcopter,Frame // https://www.aliexpress.us/item/3256812361691780.html?src=google&gatewayAdapt=glo2usa,,1,each,Ali Express,, $14.00 , $14.00 
+2,DAKEFPV F722 60A Stack ICM42688P F722 Flight Controller BLHELI_S 60A 4in1 ESC 30.5X30.5mm 3-8S for FPV Freestyle Drones Parts,Flight Controller // https://www.aliexpress.us/item/3256810156834971.html?spm=a2g0o.productlist.main.1.3d32jvtwjvtwFF&algo_pvid=50859f28-f0ca-4402-897c-b27f0762db13&algo_exp_id=50859f28-f0ca-4402-897c-b27f0762db13-0&pdp_ext_f=%7B%22order%22%3A%2286%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%2162.23%2121.00%21%21%21415.15%21140.12%21%4021030cd817893558617696648e0f2d%2112000052049643481%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A126ad0f3%3Bm03_new_user%3A-29895%3BpisId%3A5000000210792318&curPageLogUid=yp7FEYUhjsFL&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010343149723%7C_p_origin_prod%3A,,1,each,Ali Express,, $43.00 , $43.00 
+3,B19 Mini FPV 19×19mm Camera 1500TVL Resolution 1/3'' CMOS 2.1mm Lens 5-36V Wide Voltage WDR/Low-Lux 19×19mm OSD,Camera // https://www.aliexpress.us/item/3256811791139977.html?spm=a2g0o.productlist.main.1.6de035869E3nDU&algo_pvid=990a011c-6187-4c54-b82a-a25b567767b1&algo_exp_id=990a011c-6187-4c54-b82a-a25b567767b1-0&pdp_ext_f=%7B%22order%22%3A%2277%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%218.62%211.62%21%21%2157.50%2110.80%21%402103081117893559029016316e0fa2%2112000057172551933%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A126ad0f3%3Bm03_new_user%3A-29895%3BpisId%3A5000000210792318&curPageLogUid=W9Dt7emxJ8h2&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005011977454729%7C_p_origin_prod%3A,,1,each,Ali Express,, $1.10 , $1.10 
+4,FOXEER Reaper Extreme 3W FPV Transmitter for FPV Drone,Transmitter // https://www.aliexpress.us/item/3256812129512339.html?spm=a2g0o.productlist.main.2.701e4248EpbJKH&algo_pvid=0ae2c943-04a5-4a95-a0e6-6fa0a9932dab&algo_exp_id=0ae2c943-04a5-4a95-a0e6-6fa0a9932dab-1&pdp_ext_f=%7B%22order%22%3A%2219%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%21121.19%2147.53%21%21%21808.49%21317.12%21%4021030f8317893561403964631e0f8d%2112000058060815468%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A126ad0f3%3Bm03_new_user%3A-29895%3BpisId%3A5000000210792318&curPageLogUid=kL6dDZDhyJlV&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005012315827091%7C_p_origin_prod%3A,,1,each,Ali Express,, $50.00 , $50.00 
+5,IFlight Albatross V2 5.8GHz 2.4dBi Antenna UFL / 90° MMCX LHCP RHCP 150mm for FPV Racing Drone Part,Antenna // https://www.aliexpress.us/item/3256809254472852.html?spm=a2g0o.productlist.main.1.6966K4h3K4h3e0&algo_pvid=77f0b2a3-e1e3-40f1-835c-5f47a1cd439a&algo_exp_id=77f0b2a3-e1e3-40f1-835c-5f47a1cd439a-0&pdp_ext_f=%7B%22order%22%3A%2231%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%2119.67%213.64%21%21%21131.20%2124.26%21%40210328c017893583607875569e0dd8%2112000049107899527%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A126ad0f3%3Bm03_new_user%3A-29895%3BpisId%3A5000000210792324&curPageLogUid=TUiYe2wiUcnY&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009440787604%7C_p_origin_prod%3A,,1,each,Ali Express,, $1.10 , $1.10 
+6,4PCS 3115 900KV 3-6S Brushless Motor for RC Multirotor X-Class FPV Mark4 APEX 10inch XL10 FPV Camera Kit Frame,Servo Motors // https://www.aliexpress.us/item/3256808314436490.html?spm=a2g0o.productlist.main.8.7383315bZMnAYq&aem_p4p_detail=2026091320203510564588768465040000316684&algo_pvid=8125839a-2f95-43c6-8333-d4b09500dfb2&algo_exp_id=8125839a-2f95-43c6-8333-d4b09500dfb2-7&pdp_ext_f=%7B%22order%22%3A%225761%22%2C%22eval%22%3A%221%22%2C%22orig_sl_item_id%22%3A%221005008500751242%22%2C%22orig_item_id%22%3A%221005007389149758%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%21145.87%2165.94%21%21%21973.10%21439.85%21%40210328df17893560357583668e0d1b%2112000045439470188%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A126ad0f3%3Bm03_new_user%3A-29895%3BpisId%3A5000000210792318&curPageLogUid=qbuueffrrtkg&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008500751242%7C_p_origin_prod%3A1005007389149758&search_p4p_id=2026091320203510564588768465040000316684_2,,1,each,Ali Express,, $60.00 , $60.00 
+7,SpeedyBee Nano 2.4G/915MHz ExpressLRS ELRS Receiver for FPV Freestyle Long Range Drones DIY Parts,ELRS // https://www.aliexpress.us/item/3256809002280211.html?spm=a2g0o.productlist.main.2.7259YPlAYPlA8l&algo_pvid=a07ac7e8-b3f1-4d9b-bc40-db7f5fdb487d&algo_exp_id=a07ac7e8-b3f1-4d9b-bc40-db7f5fdb487d-1&pdp_ext_f=%7B%22order%22%3A%22644%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%2119.52%2112.52%21%21%21130.25%2183.55%21%402103094f17893561156702569e1059%2112000048241756978%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A126ad0f3%3Bm03_new_user%3A-29895%3BpisId%3A5000000210792318&curPageLogUid=waRYZmKUub7V&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009188594963%7C_p_origin_prod%3A,,1,each,Ali Express,, $10.00 , $10.00 
+8,TBA,Flight Controller Hardware,,,,,,, $-   
+9,TBA,Goggles,,,,,,, $-   
+,,,,,,,,, $-   
+,,,,,,,,, $-   
+,,,,,,,,, $-   
+,,,,,,,,, $-   
+,,,,,,,,, $-   
+,,,,,,,,, $-   
+,,,,,,,,, $-   
+,,,,,,,,, $-   
+,,,,,,,,, $-   
+,,,,,,,,, $-   
+,Total,,,7,,,,, $179.20 
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
