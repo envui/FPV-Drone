@@ -83,7 +83,7 @@ The project started as an exploration of building a flight controller entirely f
 | 7 | Receiver (RX) | SpeedyBee Nano ELRS, Dual-Frequency (2.4G/915MHz) | RC signal reception | [AliExpress](https://www.aliexpress.us/item/3256809002280211.html) | $10.00 |
 | 8 | Flight Controller Hardware | *TBA — mounting/standoffs* | Assembly | — | $0.00 |
 | 9 | Goggles | *TBA — must support 5.8GHz analog* | FPV video display | — | $0.00 |
-| — | TX Module | 915MHz ExpressLRS, JR-bay | RC signal transmission | *Previously owned, not on BOM sheet* | — |
+| — | TX Module | 915MHz ExpressLRS, JR-bay (Controller) | RC signal transmission | *Previously owned, not on BOM sheet* | — |
 | — | Propellers | 10" | Lift | *Not yet itemized — confirm bundled with frame or purchase separately* | — |
 | — | Battery | *TBD — 6S LiPo/Li-ion, sized for 3115 900KV motors* | Power | — | — |
 
