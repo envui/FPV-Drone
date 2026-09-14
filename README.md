@@ -39,22 +39,22 @@ The project started as an exploration of building a flight controller entirely f
 ## System Architecture
 
 ```
-┌────────────────────┐         2.4GHz or 915GHz ELRS          ┌───────────────────────┐
-│   Radio / Handset   │ ───────────────────────────────────►  │   SpeedyBee Nano RX   │
-│  915MHz ELRS TX     │            RC Link                     │  (Dual-Freq, 915MHz)  │
+┌────────────────────┐         2.4GHz or 915GHz ELRS           ┌───────────────────────┐
+│   Radio / Handset  │ ───────────────────────────────────►    │   SpeedyBee Nano RX   │
+│  915MHz ELRS TX    │            RC Link                      │  (Dual-Freq, 915MHz)  │
 └────────────────────┘                                         └───────────┬───────────┘
                                                                             │ CRSF (UART)
                                                                             ▼
                                                                 ┌───────────────────────┐
                                                                 │   DAKEFPV F722 FC     │
-                                                                │  STM32F722 + ICM42688P │
-                                                                │   (Betaflight)         │
+                                                                │  STM32F722 + ICM42688P│
+                                                                │   (Betaflight)        │
                                                                 └───────────┬───────────┘
                                                                             │ DShot
                                                                             ▼
                                                                 ┌───────────────────────┐
                                                                 │  BLHeli_S 60A 4-in-1  │
-                                                                │        ESC             │
+                                                                │        ESC            │
                                                                 └───────────┬───────────┘
                                                                             │
                                                             ┌───────────────┼───────────────┐
@@ -63,9 +63,9 @@ The project started as an exploration of building a flight controller entirely f
                                                        (3115 900KV Motors — 10" Props, x4)
 
 ┌────────────────────┐        5.8GHz Analog Video            ┌───────────────────────┐
-│   B19 19x19mm       │ ───────────────────────────────────► │   FPV Goggles          │
-│   1500TVL Camera    │      via Reaper Extreme 3W VTX        │   (TBD)                │
-└────────────────────┘        + Albatross V2 antenna          └───────────────────────┘
+│   B19 19x19mm      │ ───────────────────────────────────►  │   FPV Goggles         │
+│   1500TVL Camera   │      via Reaper Extreme 3W VTX        │   (TBD)               │
+└────────────────────┘        + Albatross V2 antenna         └───────────────────────┘
 ```
 
 ---
