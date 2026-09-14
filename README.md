@@ -81,9 +81,8 @@ The project started as an exploration of building a flight controller entirely f
 | 5 | VTX Antenna | iFlight Albatross V2, 5.8GHz, 2.4dBi, 90°, MMCX, RHCP, 150mm | Video signal radiation | [AliExpress](https://www.aliexpress.us/item/3256809254472852.html) | $1.10 |
 | 6 | Motors | 4x 3115, 900KV, 3-6S rated | Propulsion | [AliExpress](https://www.aliexpress.us/item/3256808314436490.html) | $60.00 |
 | 7 | Receiver (RX) | SpeedyBee Nano ELRS, Dual-Frequency (2.4G/915MHz) | RC signal reception | [AliExpress](https://www.aliexpress.us/item/3256809002280211.html) | $10.00 |
-| 8 | Flight Controller Hardware | *TBA — mounting/standoffs* | Assembly | — | $0.00 |
+| 8 | TX Module | * TBA — must be 915MHz ExpressLRS, JR-bay (Controller) | RC signal transmission | — | — |
 | 9 | Goggles | *TBA — must support 5.8GHz analog* | FPV video display | — | $0.00 |
-| — | TX Module | 915MHz ExpressLRS, JR-bay (Controller) | RC signal transmission | *Previously owned, not on BOM sheet* | — |
 | — | Propellers | 10" | Lift | *Not yet itemized — confirm bundled with frame or purchase separately* | — |
 | — | Battery | *TBD — 6S LiPo/Li-ion, sized for 3115 900KV motors* | Power | — | — |
 
