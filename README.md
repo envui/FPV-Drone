@@ -40,8 +40,8 @@ The project started as an exploration of building a flight controller entirely f
 
 ```
 ┌────────────────────┐         2.4GHz or 915GHz ELRS           ┌───────────────────────┐
-│   Radio / Handset   │ ───────────────────────────────────►   │   SpeedyBee Nano RX   │
-│  915MHz ELRS TX     │            RC Link                     │  (Dual-Freq, 915MHz)  │
+│   Radio / Handset  │ ───────────────────────────────────►    │   SpeedyBee Nano RX   │
+│  915MHz ELRS TX    │            RC Link                      │  (Dual-Freq, 915MHz)  │
 └────────────────────┘                                         └───────────┬───────────┘
                                                                             │ CRSF (UART)
                                                                             ▼
